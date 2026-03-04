@@ -7,7 +7,7 @@ from datetime import datetime
 app = FastAPI()
 
 # === Bitrix24 настройки ===
-WEBHOOK = "https://izyskaniya.bitrix24.ru/rest/13614/rj3pqolk1fiu6hfr/"
+WEBHOOK = "https://izyskaniya.bitrix24.ru/rest/1005/1eahl4oku941fawb/"
 DISK_FOLDER_ID = "1706930"
 KP_LINK_FIELD = "UF_CRM_1761672766812"  # Поле для ссылки на КП
 
